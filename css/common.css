@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+a {
+     text-decoration: none;
+     color: inherit;
+}
+
+a:hover {
+     /*主题色*/
+     color: #ff6700;
+}
+
+input {
+     outline: none;
+     border: none;
+}
+
+button {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+}
+
+html {
+     color: #333333;
+     min-width: 1226px;
+     font: 14px/1.5 'Helvetica Neue', Helvetica,
+     Arial, 'Microsoft YaHei', 'Hiragino Sans GB',
+     'Heiti SC', 'WenQuanYiMicro Hei', sans-serif;
+}
+
+.container {
+     width: 1226px;
+     margin: 0 auto;
+}
+
+ /*布局方案*/
+.flex {
+    display: flex;
+}

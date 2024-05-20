@@ -1,0 +1,86 @@
+.footer-top {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 27px 0;
+    margin: 10px 0;
+}
+
+.footer-top a {
+    width: 242px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    color: #616161;
+    line-height: 20px;
+    border-right: 1px solid #e0e0e0;
+}
+
+.footer-top i {
+    font-size: 26px;
+    vertical-align: -4px;
+}
+
+.footer-top a:hover {
+    color: #ff6700;
+}
+
+.footer-top a:last-child {
+    border-right: none;
+}
+
+.footer-bottom {
+    display: flex;
+    padding: 40px 0;
+}
+
+.footer-links {
+    width: 160px;
+}
+
+.footer-links dt {
+    font-size: 14px;
+    font-weight: normal;
+    color: #424242;
+    margin-bottom: 17px;
+}
+
+.footer-links dd {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #757575;
+}
+
+.footer-contact {
+    width: 245px;
+    text-align: center;
+    border-left: 1px solid #e0e0e0;
+    margin-left: 20px;
+}
+
+.footer-photo {
+    font-size: 22px;
+    color: #ff6700;
+}
+
+.footer-photo-des {
+    font-size: 12px;
+    color: #616161;
+}
+
+.footer-contact button {
+    width: 118px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ff6700;
+    color: #ff6700;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+.footer-contact .iconfont {
+    font-size: 12px;
+}
+
+.footer-contact button:hover {
+    background-color: #ff6700;
+    color: #ffffff;
+}
